@@ -1,5 +1,3 @@
-spawnRate = 60;
-with(obj_level) {
-	spawnRate = spawnRate - ( 5 * currentLevel );
-};
+spawnRate = 50;
+
 alarm[0] = spawnRate;

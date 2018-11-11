@@ -1,4 +1,4 @@
-var i= random(10);
+/*var i= random(10);
 if ((i == 0) && (cd <1)){
 	instance_create_layer(x,y, "SpearLayer", obj_fireball);
 	cd = 0;
@@ -12,3 +12,4 @@ if ((i == 0) && (cd <1)){
 	if (hpoint <=0){
 		instance_destroy();
 	}
+	*/
