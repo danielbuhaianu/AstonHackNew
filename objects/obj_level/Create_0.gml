@@ -1,4 +1,4 @@
-maxLevel = 9;
+maxLevel = 5;
 currentLevel = 1;
 coef = 5;
 
