@@ -1,2 +1,2 @@
 theScore = 0;
-maxScore = 25;
+maxScore = 10;
